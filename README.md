@@ -1,6 +1,7 @@
-# Geometry Construction Set
+# Program JavaScript untuk KOnstruksi Geometri
+Untuk menjalankan programnya, klik [Aplikasi Geom](https://sahidyk.github.io/geom/geom.html).
 
-With this playground you can verify some fundamental geometric theorems :
+With this playground you can verify some fundamental geometric theorems:
 
 * Demo 2: In a triangle the three medians intersect at the same point, the center of gravity.
 
