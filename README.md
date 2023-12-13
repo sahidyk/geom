@@ -1,21 +1,20 @@
 # Program JavaScript untuk Konstruksi Geometri
 Untuk menjalankan programnya, klik [Aplikasi Geom](https://sahidyk.github.io/geom/geom.html).
+Dengan taman bermain ini Anda dapat memverifikasi beberapa teorema geometri dasar:
 
-With this playground you can verify some fundamental geometric theorems:
+* Demo 2: Pada setiap segitiga, ketiga median berpotongan di titik yang sama, yaitu pusat gravitasi.
 
-* Demo 2: In a triangle the three medians intersect at the same point, the center of gravity.
+* Demo 3: Pada setiap segitiga, ketiga ketinggiannya berpotongan di titik yang sama, yaitu ortosenter.
 
-* Demo 3: In a triangle the three heights intersect at the same point, the orthocenter.
+* Demo 4: Pada setiap segitiga, ketiga garis bagi berpotongan di titik yang sama, yaitu titik pusat lingkaran.
 
-* Demo 4: In a triangle the three bisectors intersect at the same point, the center of the inscribed circle.
+* Demo 5: Ketiga lingkaran tersebut berpotongan di titik yang sama yaitu titik Miquel.
 
-* Demo 5: The three circles intersect at the same point, the Miquel point.
+* Demo 6: Pada setiap segitiga, ketiga mediator berpotongan di titik yang sama, yaitu titik pusat lingkaran yang dibatasi.
 
-* Demo 6: In a triangle, the three mediators intersect at the same point, the center of the circumscribed circle.
+* Demo 7: Sisi tengah setiap segiempat membentuk jajaran genjang Varignon.
 
-* Demo 7: The middle sides of any quadrilateral form the Varignon parallelogram.
-
-* Demo 8: Construction of a pentagon inscribed in a circle:
+* Demo 8: Konstruksi segi lima bertuliskan lingkaran:
 
 ![demo08](demo08.png)
 
