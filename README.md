@@ -1,4 +1,4 @@
-# Program JavaScript untuk KOnstruksi Geometri
+# Program JavaScript untuk Konstruksi Geometri
 Untuk menjalankan programnya, klik [Aplikasi Geom](https://sahidyk.github.io/geom/geom.html).
 
 With this playground you can verify some fundamental geometric theorems:
